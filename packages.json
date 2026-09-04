@@ -6,5 +6,13 @@
     "sha256": "07d44f181fdee8872154efd6cd8860455eff2a50f6b6c22724989d2cb3bf5332",
     "size": 3750936,
     "updated_at": "2026-09-04T18:02:33+00:00"
+  },
+  "com.innersloth.spacemafia": {
+    "branch": "com.innersloth.spacemafia",
+    "path": "amongus.so",
+    "file": "amongus.so",
+    "sha256": "07d44f181fdee8872154efd6cd8860455eff2a50f6b6c22724989d2cb3bf5332",
+    "size": 3750936,
+    "updated_at": "2026-09-04T18:04:41+00:00"
   }
 }
