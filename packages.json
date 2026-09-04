@@ -1,10 +1,10 @@
 {
   "com.nautilus.realcricket": {
     "branch": "com.nautilus.realcricket",
-    "path": "realcricket.so",
-    "file": "realcricket.so",
-    "sha256": "3cb428d14c8b37fc92c107ef3789b2f66b17d4068b8b6cd5ed496c98c5e2f526",
-    "size": 3484552,
-    "updated_at": "2026-09-04T17:53:07+00:00"
+    "path": "amongus.so",
+    "file": "amongus.so",
+    "sha256": "07d44f181fdee8872154efd6cd8860455eff2a50f6b6c22724989d2cb3bf5332",
+    "size": 3750936,
+    "updated_at": "2026-09-04T18:02:33+00:00"
   }
 }
