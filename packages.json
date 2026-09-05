@@ -18,5 +18,13 @@
   "com.google.android.play.games": {
     "branch": "com.google.android.play.games",
     "updated_at": "2026-09-04T18:41:32+00:00"
+  },
+  "com.Earthkwak.Platformer": {
+    "branch": "com.Earthkwak.Platformer",
+    "path": "superbear.so",
+    "file": "superbear.so",
+    "sha256": "87cb9b0eea77ed2ac20144b04b642c83748f8955b9ae3b20a529f79effc6dfc2",
+    "size": 3364840,
+    "updated_at": "2026-09-05T23:19:48+00:00"
   }
 }
