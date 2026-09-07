@@ -21,10 +21,10 @@
   },
   "com.Earthkwak.Platformer": {
     "branch": "com.Earthkwak.Platformer",
-    "path": "superbear.so",
-    "file": "superbear.so",
-    "sha256": "5df629e6c46384cde799209b340fdd82dbedb98bdf4e87377dfa21f7b42de717",
-    "size": 3558968,
-    "updated_at": "2026-09-07T23:10:57+00:00"
+    "path": "libTool.so",
+    "file": "libTool.so",
+    "sha256": "e4c65735806bf1d806bb379300881de4ad2e90ce160ae512521bb584a426ee50",
+    "size": 9963528,
+    "updated_at": "2026-09-07T23:20:20+00:00"
   }
 }
