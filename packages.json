@@ -21,10 +21,10 @@
   },
   "com.Earthkwak.Platformer": {
     "branch": "com.Earthkwak.Platformer",
-    "path": "il2cpp.so",
-    "file": "il2cpp.so",
-    "sha256": "a7d753e217bd95245ffd9856792ba4cb574a5f916b44fe37e7a335512391daa3",
-    "size": 10436584,
-    "updated_at": "2026-09-07T23:06:48+00:00"
+    "path": "superbear.so",
+    "file": "superbear.so",
+    "sha256": "5df629e6c46384cde799209b340fdd82dbedb98bdf4e87377dfa21f7b42de717",
+    "size": 3558968,
+    "updated_at": "2026-09-07T23:08:18+00:00"
   }
 }
