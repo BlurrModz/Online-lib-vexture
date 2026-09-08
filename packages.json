@@ -18,13 +18,5 @@
   "com.google.android.play.games": {
     "branch": "com.google.android.play.games",
     "updated_at": "2026-09-04T18:41:32+00:00"
-  },
-  "com.Earthkwak.Platformer": {
-    "branch": "com.Earthkwak.Platformer",
-    "path": "libTool.so",
-    "file": "libTool.so",
-    "sha256": "e4c65735806bf1d806bb379300881de4ad2e90ce160ae512521bb584a426ee50",
-    "size": 9963528,
-    "updated_at": "2026-09-07T23:45:49+00:00"
   }
 }
