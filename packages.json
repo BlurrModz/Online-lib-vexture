@@ -3,9 +3,9 @@
     "branch": "com.nautilus.realcricket",
     "path": "realcricket.so",
     "file": "realcricket.so",
-    "sha256": "07d1b4933ce41e42a11124fb3c3554852c3b16c9911fd6a9278264aac798dfda",
-    "size": 3693368,
-    "updated_at": "2026-09-09T09:43:56+00:00"
+    "sha256": "4a78db60df0ced7d1ea77eef2a75d530a067a49473503909536512659d34d38a",
+    "size": 3542504,
+    "updated_at": "2026-09-09T10:10:25+00:00"
   },
   "com.innersloth.spacemafia": {
     "branch": "com.innersloth.spacemafia",
