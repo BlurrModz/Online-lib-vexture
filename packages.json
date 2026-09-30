@@ -18,5 +18,13 @@
     "sha256": "35296f75a747ea6053af8ab4a0ab3b4d25afa400a70c2e7e5968566291f4b233",
     "size": 3692936,
     "updated_at": "2026-09-18T17:18:01+00:00"
+  },
+  "com.vincentb.MobControl": {
+    "branch": "com.vincentb.MobControl",
+    "path": "mobcontrol.so",
+    "file": "mobcontrol.so",
+    "sha256": "ed3485826f771ee8f761b08b79ba9de260b43d074e8eb1cf56b135c7fcc20898",
+    "size": 3420416,
+    "updated_at": "2026-09-30T04:56:32+00:00"
   }
 }
