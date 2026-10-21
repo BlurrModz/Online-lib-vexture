@@ -26,5 +26,13 @@
     "sha256": "0fe23dc0f97392d3aec83758de72831d220d4ed560c92abffa0f0ee562cb6c11",
     "size": 3422112,
     "updated_at": "2026-10-21T07:17:59+00:00"
+  },
+  "nl.noio.kingdom": {
+    "branch": "nl.noio.kingdom",
+    "path": "kingdom.so",
+    "file": "kingdom.so",
+    "sha256": "044e6d876f00d5264aa6ae130e71bbf6ac6895fed9644c27258b642cd4909463",
+    "size": 3424112,
+    "updated_at": "2026-10-21T13:27:03+00:00"
   }
 }
