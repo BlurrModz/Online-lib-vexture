@@ -23,9 +23,9 @@
     "branch": "com.vincentb.MobControl",
     "path": "mobcontrol.so",
     "file": "mobcontrol.so",
-    "sha256": "0fe23dc0f97392d3aec83758de72831d220d4ed560c92abffa0f0ee562cb6c11",
-    "size": 3422112,
-    "updated_at": "2026-10-21T07:17:59+00:00"
+    "sha256": "0963e8afedfdf23308849e61d5ca3e9bab5a07779670bf832041ceea9f41728a",
+    "size": 3410368,
+    "updated_at": "2026-10-29T14:53:46+00:00"
   },
   "nl.noio.kingdom": {
     "branch": "nl.noio.kingdom",
