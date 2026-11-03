@@ -3,9 +3,9 @@
     "branch": "com.innersloth.spacemafia",
     "path": "amongus.so",
     "file": "amongus.so",
-    "sha256": "643c2fe39927d0c12f2844f394418d4c5944c629c71d5c581c2375510c8e0199",
-    "size": 3896128,
-    "updated_at": "2026-10-29T15:09:41+00:00"
+    "sha256": "4ce596f81492df6feba9d61d222e0b9bd482cddc3bf0505236727f52eaba85c7",
+    "size": 3905312,
+    "updated_at": "2026-11-03T10:39:10+00:00"
   },
   "com.google.android.play.games": {
     "branch": "com.google.android.play.games",
