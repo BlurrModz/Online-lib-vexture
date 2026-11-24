@@ -34,5 +34,13 @@
     "sha256": "044e6d876f00d5264aa6ae130e71bbf6ac6895fed9644c27258b642cd4909463",
     "size": 3424112,
     "updated_at": "2026-10-21T13:27:03+00:00"
+  },
+  "com.ea.gp.pvzheroes": {
+    "branch": "com.ea.gp.pvzheroes",
+    "path": "pvzheroes.so",
+    "file": "pvzheroes.so",
+    "sha256": "b76de3fc5b3831bbdd0b29de974e198cd4d7eea7e5891e4bb529b26ecf7e33dc",
+    "size": 3630560,
+    "updated_at": "2026-11-24T08:37:12+00:00"
   }
 }
